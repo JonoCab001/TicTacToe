@@ -185,6 +185,7 @@
             // 
             // Form1
             // 
+            this.BackColor = System.Drawing.Color.PaleTurquoise;
             this.ClientSize = new System.Drawing.Size(596, 422);
             this.Controls.Add(this.RestartButton);
             this.Controls.Add(this.button9);
